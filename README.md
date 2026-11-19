@@ -1,106 +1,116 @@
-# Mahmoud Mosad — Developer Portfolio
+# Mahmoud Mosad | Developer Portfolio
 
-\<p align="center">   \<a href="[https://portfolio-steel-six-16.vercel.app/](https://portfolio-steel-six-16.vercel.app/)">     \<strong>🌐 View Live Portfolio\</strong>   \</a> \</p>
+\<p align="center">   \<a href="[https://portfolio-steel-six-16.vercel.app/](https://portfolio-steel-six-16.vercel.app/)">     \<img src="[https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-Visit_Website-C8FF00?style=for-the-badge&logo=vercel&logoColor=111111](https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-Visit_Website-C8FF00?style=for-the-badge\&logo=vercel\&logoColor=111111)" alt="View Live Portfolio" />   \</a> \</p>
 
-A personal developer portfolio showcasing my projects, technical skills, competitive programming journey, and growth as a Computer Science student.
+\<p align="center">   A personal portfolio showcasing my projects, technical skills, competitive programming journey, and development experience. \</p>
 
-Built with **HTML, CSS, and Vanilla JavaScript**, featuring a bold visual identity, responsive layouts, and interactive animations.
+\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)" alt="HTML5" />   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)" alt="CSS3" />   \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)" alt="JavaScript" />   \<img src="[https://img.shields.io/badge/Deployed_on-Vercel-black?style=flat-square&logo=vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=flat-square\&logo=vercel)" alt="Vercel" /> \</p>
 
-## ✦ Overview
+---
 
-This portfolio serves as a central place to explore my work, development journey, and technical interests.
+## About
 
-The design follows a brutalist-inspired aesthetic with bold typography, sharp edges, high-contrast colors, and subtle motion.
+This is my personal developer portfolio, built to bring together my work, skills, and progress as a Computer Science student.
 
-## ✦ Features
+The website uses a brutalist-inspired visual style, combining bold typography, high-contrast colors, sharp edges, and interactive elements to create a distinctive experience.
 
-- **Responsive Design** — Adapts to desktop, tablet, and mobile screens.
-- **Custom Visual Identity** — Minimalist brutalist-inspired design.
-- **Scroll Reveal Animations** — Elements animate into view using Intersection Observer.
-- **Interactive Hero Section** — Pointer-based 3D tilt effect.
-- **Mobile Navigation** — Responsive navigation menu.
-- **Projects Showcase** — Selected personal development projects.
-- **Competitive Programming** — Direct links to Codeforces and LeetCode profiles.
-- **Skills Section** — Overview of my current technical toolkit.
-- **Accessibility** — Respects reduced-motion preferences.
+**Live Website:** [portfolio-steel-six-16.vercel.app](https://portfolio-steel-six-16.vercel.app/)
 
-## ✦ Tech Stack
+## Features
 
-| Technology   | Usage                                   |
-| ------------ | --------------------------------------- |
-| HTML5        | Semantic page structure                 |
-| CSS3         | Styling, responsive layouts, animations |
-| JavaScript   | Interactions and dynamic behavior       |
-| Google Fonts | Space Grotesk & DM Mono                 |
-| Vercel       | Deployment and hosting                  |
+- **Responsive Layout** — Designed to work across desktop, tablet, and mobile devices.
+- **Custom Visual Identity** — Bold typography, minimal layouts, and distinctive lime accents.
+- **Scroll Reveal Animations** — Smooth section transitions using the Intersection Observer API.
+- **Interactive Hero** — Pointer-based 3D tilt effect.
+- **Mobile Navigation** — Responsive navigation menu with interactive controls.
+- **Projects Showcase** — A collection of selected development projects.
+- **Competitive Programming Profiles** — Direct access to my Codeforces and LeetCode accounts.
+- **CV Download** — Downloadable resume.
+- **Reduced Motion Support** — Respects the user's motion preferences.
 
-## ✦ Featured Projects
+## Tech Stack
 
-### 01. Flowersta
+| Technology   | Purpose                                          |
+| ------------ | ------------------------------------------------ |
+| HTML5        | Semantic structure and content                   |
+| CSS3         | Styling, layouts, responsiveness, and animations |
+| JavaScript   | Interactive functionality and DOM manipulation   |
+| Google Fonts | Space Grotesk and DM Mono typography             |
+| Vercel       | Hosting and deployment                           |
 
-A flower-store e-commerce concept exploring product presentation, shopping-cart interactions, and the foundations of an online storefront.
+## Selected Projects
 
-**Technologies:** HTML, CSS, JavaScript
+### Flowersta
 
-[Live Demo](https://flowersta.vercel.app/)
+A flower-store e-commerce concept featuring product presentation and shopping cart functionality.
 
-### 02. Tic Tac Toe
+- **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [flowersta.vercel.app](https://flowersta.vercel.app/)
 
-A browser-based Tic Tac Toe game featuring two-player mode, an AI opponent, and an online multiplayer experiment.
+### Tic Tac Toe
 
-**Technologies:** HTML, CSS, Vanilla JavaScript
+An interactive browser-based game featuring multiple game modes, including an AI opponent and multiplayer functionality.
 
-[Live Demo](https://tic-tac-toe-886db.web.app/)
+- **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [tic-tac-toe-886db.web.app](https://tic-tac-toe-886db.web.app/)
 
-## ✦ Competitive Programming
+## Competitive Programming
 
-I practice competitive programming primarily using C++, focusing on algorithmic thinking, problem-solving, and understanding time and space complexity.
+I actively practice competitive programming using C++, focusing on problem-solving, algorithms, data structures, and writing efficient solutions.
 
-- [Codeforces — moxoc](https://codeforces.com/profile/moxoc)
-- [LeetCode — moxo](https://leetcode.com/u/moxo/)
+| Platform   | Profile                                       |
+| ---------- | --------------------------------------------- |
+| Codeforces | [moxoc](https://codeforces.com/profile/moxoc) |
+| LeetCode   | [moxo](https://leetcode.com/u/moxo/)          |
 
-## ✦ Run Locally
+## Getting Started
 
-Clone the repository:
+You can run the portfolio locally without installing any dependencies.
+
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/NotMoxo/my-Portfolio.git
 ```
 
-Navigate to the project directory:
+**2. Navigate to the project folder**
 
 ```bash
 cd my-Portfolio
 ```
 
-Open `index.html` in your browser, or use the **Live Server** extension in VS Code.
+**3. Open the website**
 
-No frameworks, dependencies, or build tools are required.
+Open `index.html` directly in your browser, or use the Live Server extension in Visual Studio Code.
 
-## ✦ Project Structure
+## Project Structure
 
 ```text
 my-Portfolio/
 │
-├── index.html
-├── styles.css
-├── script.js
-├── favicon.svg
-└── README.md
+├── index.html       # Main website structure
+├── styles.css       # Styling and responsive layouts
+├── script.js        # Interactive functionality
+├── favicon.svg      # Website favicon
+├── cv.pdf           # Downloadable resume
+└── README.md        # Project documentation
 ```
 
-## ✦ Connect With Me
+## Connect With Me
 
-- **GitHub:** [@NotMoxo](https://github.com/NotMoxo)
-- **LinkedIn:** [Mahmoud Mosad](https://www.linkedin.com/in/mahmoud-mosad/)
-- **Codeforces:** [moxoc](https://codeforces.com/profile/moxoc)
-- **LeetCode:** [moxo](https://leetcode.com/u/moxo/)
-- **Email:** [msdm0645@gmail.com](mailto\:msdm0645@gmail.com)
+\<p>
+&#x20; \<a href="[https://github.com/NotMoxo](https://github.com/NotMoxo)">GitHub\</a> ·
+&#x20; \<a href="[https://www.linkedin.com/in/mahmoud-mosad/](https://www.linkedin.com/in/mahmoud-mosad/)">LinkedIn\</a> ·
+&#x20; \<a href="[https://codeforces.com/profile/moxoc](https://codeforces.com/profile/moxoc)">Codeforces\</a> ·
+&#x20; \<a href="[https://leetcode.com/u/moxo/](https://leetcode.com/u/moxo/)">LeetCode\</a>
+\</p>
+
+**Email:** [msdm0645@gmail.com](mailto\:msdm0645@gmail.com)
 
 ---
 
 \<p align="center">
-&#x20; Designed and built by \<strong>Mahmoud Mosad\</strong>.
-&#x20; \<br>
-&#x20; \<em>Independently curious. Constantly building.\</em>
+&#x20; Designed and developed by \<strong>Mahmoud Mosad\</strong>.
+&#x20; \<br />
+&#x20; \<em>Always learning. Always building.\</em>
 \</p>
